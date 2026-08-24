@@ -1,1 +1,6 @@
 # ADD103
+<!-- Displays in the browser's tab header --></head><body>    <!-- All visible content on your web page must live inside the body tags -->        <!-- h1 is the primary heading for the page. Use only ONE h1 per document! -->    <h1>Developer Playbook: [Fall and 2026] </h1>        <!-- h2 represents major subsections -->    <h2>Course Intentions & Goals</h2>        <!-- p stands for paragraph. It is a block-level text element -->    <p>Hello World! I am taking this course because [I want to learn more about graphic design].</p>    <p>By the end of this semester, I want to build a website about [popular collectables].</p>        <h3>My Coding "Pet"</h3>    <p>My coding pet (Vs Code Pets, Stardew pets, or other, see video) is a [Siphonophore] because [they are zooids that work together to get things done].</p>    
+
+<h3>Core Focus Areas</h3>
+    <p>This semester, I am focusing on mastering version control workflow, writing semantic HTML5 structure, and building responsive layouts with Flexbox and Grid.</p>
+</body> I'd also like to focus on mastering everything web development wise since this is my first time doing something like this.
