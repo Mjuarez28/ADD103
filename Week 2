@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head> style="#582C83"
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Review page</title>
-</head>style="#582C83"
+</head> 
 <body> <h1>Catch! Teenieping</h1>
     <img> <teenieping class="jpg"></teenieping><img src="teenieping.jpg" alt="Book Cover Description">
     <h2>Review paragraph</h2>
