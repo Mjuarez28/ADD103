@@ -1,0 +1,22 @@
+index.html
+<head>
+    <title>photos</title>
+    <link rel="icon" type="flower/x-icon" href="../flower/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Relative link pointing up one level to root images -->
+    <img class="profile-pic" src="../images/lotus.jpg" alt="Profile photo of [Monica Juarez]">
+    <p>
+        <a class="btn-link" href="https://github.com" target="_b">GitHub</a>
+    </p>
+    <!-- Creative Commons Attribution Footer -->
+    <footer>
+        <p>Background image by <a href="https://unsplash.com/photos/pink-and-white-flowers-under-white-sky-during-daytime-kxvn1ogpTtE">ArtistName</a> via <a href="https://pixabay.com/">Pixabay</a> (CC0)</p>
+    </footer>
+</body><h1>Flowers</h1>
+<img> pinkflower.jpg jpg src=".. https://unsplash.com/photos/pink-and-white-lotus-flower-yanhwFwyoaU"
+<img> petal.jpg src="..https://unsplash.com/photos/pink-roses-in-close-up-photography-oEWdQsbRVZk"
+<img> yellowflower.jpg src="https://unsplash.com/photos/white-and-pink-petaled-flower-lot-W6zVhDL_ijg"
+<img> flower.jpg src="https://unsplash.com/photos/photo-of-pink-petaled-flowers-9A_peGrSbZc"
+        target="_pictures"
