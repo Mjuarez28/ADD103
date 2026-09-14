@@ -1,0 +1,19 @@
+<doctype html>
+</doctype> <html> lang= eng</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+‹meta charset="UTF-8">
+‹meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>lists</title>
+<link rel="stylesheet" href="styles.html">
+</head>
+<body>
+<h1>Lists</h1>
+<h2>Ordered Lists</h2>
+<ol>Eulogy
+<Li>Here lies Monica Juarez. Today we honor her with a speech. In her life she managed to do lots of things such as win some ribbons for playing the viola and going to college for the first time.</lis
+<Li>Some of the funniest things to happen to her are going to the carnival and only winning a headband, going to Florida, trying holy water in Ohio among some funny things.</Li>
+<ol>
+<h2>Unordered Lists</h2>
+</body>
+</html>
