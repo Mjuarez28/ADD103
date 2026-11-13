@@ -1,0 +1,4 @@
+<div class="photo-wall #display grid photo1.jpg photo2.jpg photo3.jpg photo4.jpg photo5.jpg photo6.jpg" style="display: grid; grid-template-columns:
+repeat(3, 1fr)
+width: 100%; height: 100%; object-fit: cover;
+object-fit: cover;

@@ -1,0 +1,23 @@
+index.html
+style.css
+table {
+    border-collapse: collapse;
+    width: 100%;
+} /* This targets the <table> element directly to control border layout and size */
+th, td {
+    border: 1px solid ##de3535;
+    padding: 15px;
+    text-align: center;
+} /* The comma (,) allows you to group selectors, applying these border and padding styles to all <th scope="row"> and <td> tags */
+.empty-day {
+    background-color: ##8cbbf5;
+    color: #00234da;
+    font-style: italic;
+} /* This targets table cells carrying class="empty-day" to style non-active calendar dates */
+<body>March</body>
+<caption>March 2026</caption>
+<thead><th scope="Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday">.</thead>
+<tbody>5</tbody>
+<td colspan="..."></td>
+<img> <pinkheart class="png"></pinkheart>
+<li><a href="week_03/calendar/index.html">Week 3B: Birth Month Calendar</a></li>
